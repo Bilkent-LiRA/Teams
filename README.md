@@ -1,7 +1,7 @@
 - [Microsoft Teams Tutorial and Documentation](#microsoft-teams-tutorial-and-documentation)
   * [Creating a Channel](#creating-a-channel)
+    + [Channel Types](#channel-types)
     + [Opt: Creating a Private & Shared Channel](#opt--creating-a-private---shared-channel)
-      - [Channel Types](#channel-types)
 
 # Microsoft Teams Tutorial and Documentation
 This documentation is designed to help with Teams' functionalities and decide on the style that will be used on the LiRA lab's Teams channel.
