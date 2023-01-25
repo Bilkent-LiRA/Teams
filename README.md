@@ -19,8 +19,9 @@ Shared: This type of channel lets you create a secure collaboration space for te
 ### Opt: Creating a Private & Shared Channel
 If you decide to open a private or shared channel, please follow the exact steps described above but change the "Privacy" from the dropdown menu to the desired option. Take notice that some integrated apps are not working for channels other than the standard. <br />
 ## Calendar & To Do
+A lab calendar and to-do are available at the "calendar_and_todos" channel.
 ### Calendar
-A lab calendar and to-do are available at the "calendar_and_todos" channel. We are using a calendar to notify others about our lecture hours and other types of unavailabilities during office hours. To access the calendar, first, you should share the Gmail that you use for your calendars with Arda Sarp Yenicesu (preferably through Teams or email: sarp.yenicesu@bilkent.edu.tr). After you are notified of the access, you can start to add your events and view others through the Calendar tab. <br />
+We are using a calendar to notify others about our lecture hours and other types of unavailabilities during office hours. To access the calendar, first, you should share the Gmail that you use for your calendars with Arda Sarp Yenicesu (preferably through Teams or email: sarp.yenicesu@bilkent.edu.tr). After you are notified of the access, you can start to add your events and view others through the Calendar tab. <br />
 ![Screenshot](calendar.png) <br />
 To add a new event to the calendar, please hover over the create button at the top left of the page and select "Event". First, decide the timeline of your event, and please make sure that you select the LiRA Calendar at the bottom of the pop-up menu. You should follow the naming convention when you create a new event. The event should start with your initials, followed by "-" and be finalized with a one-word description of it without any space like "ASY-DEMO". <br />
 ![Screenshot](calendar_add.png) <br />
