@@ -2,7 +2,16 @@
   * [Creating a Channel](#creating-a-channel)
     + [Channel Types](#channel-types)
     + [Opt: Creating a Private & Shared Channel](#opt--creating-a-private---shared-channel)
-
+  * [Calendar & To Do](#calendar---to-do)
+    + [Calendar](#calendar)
+      - [Opt: Multi-User Events](#opt--multi-user-events)
+    + [To Do](#to-do)
+      - [Add Task](#add-task)
+      - [Assigned Tasks](#assigned-tasks)
+  * [Reading](#reading)
+    + [Posts](#posts)
+    + [LiRA Library](#lira-library)
+    
 # Microsoft Teams Tutorial and Documentation
 This documentation is designed to help with Teams' functionalities and decide on the style that will be used on the LiRA lab's Teams channel.
 ## Creating a Channel
@@ -36,3 +45,15 @@ In the "calendar_and_todos" channel, there is a tab called "LiRA To Do". You can
 #### Assigned Tasks
 To check the assigned tasks, go to "Tasks by Planner and To Do" that you have pinned. In this app, you can see all of the tasks in the "Shared plans" section and tasks that are assigned to you in the "My tasks" section. <br />
 ![Screenshot](todo_overview.png) <br />
+## Reading
+We are using the "reading" channel to share papers and discuss them with others that are related to our/others' research or the ones we have found interesting.
+### Posts
+If you want to share a document, you need to start a new conversation at the "Posts" tab and select the "format" option to follow the sharing format.<br />
+![Screenshot](reading_post.png) <br />
+The subject should be the title of the article, and it should be shared with the article's abstract and its authors as follows:<br />
+![Screenshot](post_detail.png) <br />
+To format the abstract easily you can use the following web-tool: https://lingojam.com/TexttoOneLine
+### LiRA Library
+LiRA Library is a wiki where we store all of the shared papers, repositories, and datasets with their URLs. If the document that you have shared has an URL, then you should also update the wiki accordingly. To update the wiki, select an appropriate category for your document; if you feel like there is no suitable heading for the document, then you can create one by clicking the "+" as follows:<br />
+![Screenshot](library.png) <br />
+If there is one, then you can add your document as a hyperlink to the desired section with its title and access URL in a new line by pressing "enter" after the latest entry in that section.
