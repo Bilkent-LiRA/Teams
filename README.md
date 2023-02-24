@@ -58,7 +58,7 @@ To format the abstract easily you can use the following web-tool: https://lingoj
 LiRA Library is a wiki where we store all of the shared papers, repositories, and datasets with their URLs. If the document that you have shared has an URL, then you should also update the wiki accordingly. To update the wiki, select an appropriate category for your document; if you feel like there is no suitable heading for the document, then you can create one by clicking the "+" as follows:<br />
 ![Screenshot](library.png) <br />
 If there is one, then you can add your document as a hyperlink to the desired section with its title and access URL in a new line by pressing "enter" after the latest entry in that section.
-## Sign in/up to Teams for Undergraduates
+## Sign in/up to Teams for Undergraduates (Thanks to CargoBot@2023)
 1.	Go to Microsoft Teams’ main page (https://www.microsoft.com/en-us/microsoft-teams/log-in).
 2.	Click on “Sign up” button (located on the top right corner) if you do not have an account already. If you have an account, skip to the step 3. 
     -	Using one of your personal e-mail addresses, fill the textbox and click on “Next” button.
