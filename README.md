@@ -11,7 +11,7 @@
   * [Reading](#reading)
     + [Posts](#posts)
     + [LiRA Library](#lira-library)
-  * [Sign in/up to Teams for Undergraduates](#sign in/up-to-teams-for-undergraduates)
+  * [Sign in/up to Teams for Undergraduates](#sign-inup-to-teams-for-undergraduates)
     
 # Microsoft Teams Tutorial and Documentation
 This documentation is designed to help with Teams' functionalities and decide on the style that will be used on the LiRA lab's Teams channel.
