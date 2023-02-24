@@ -57,3 +57,32 @@ To format the abstract easily you can use the following web-tool: https://lingoj
 LiRA Library is a wiki where we store all of the shared papers, repositories, and datasets with their URLs. If the document that you have shared has an URL, then you should also update the wiki accordingly. To update the wiki, select an appropriate category for your document; if you feel like there is no suitable heading for the document, then you can create one by clicking the "+" as follows:<br />
 ![Screenshot](library.png) <br />
 If there is one, then you can add your document as a hyperlink to the desired section with its title and access URL in a new line by pressing "enter" after the latest entry in that section.
+
+## Sign in/up to Teams for Undergraduates
+1.	Go to Microsoft Teams’ main page (https://www.microsoft.com/en-us/microsoft-teams/log-in).
+
+2.	Click on “Sign up” button (located on the top right corner) if you do not have an account already. If you have an account, skip to the step 3. 
+    -	Using one of your personal e-mail addresses, fill the textbox and click on “Next” button.
+    -	Select the “For work and organizations” option and click on “Next” button.
+    -	The following pop-up should appear. Click on “Send code” button. You can set a password if you desire to do so by clicking on “Use your password instead” link.
+    -	Using the code sent to your given e-mail address, fill the textbox and click on “Sign in” button. 
+    -	You may stay signed in if you want. Click on “Yes” if you decided to do so. Otherwise click on “No” button. 
+    -	Fill the required information for your identification/contact name and click on “Next” button. 
+    -	You should be all set. Skip to step 4. 
+
+3.	If you have a valid account for Microsoft Teams, click on “Sign in” button (located on the top right corner).
+    -	Using your personal e-mail address that was used to create your account, fill the textbox and click on “Next” button.
+    -	Select the “For work and organizations” option and click on “Next” button.
+    -	The following pop-up should appear. Click on “Send code” button. You can set a password if you desire to do so by clicking on “Use your password instead” link.
+    -	Using the code sent to your given e-mail address, fill the textbox and click on “Sign in” button. 
+    -	You may stay signed in if you want. Click on “Yes” if you decided to do so. Otherwise click on “No” button.
+
+4.	Contact with your TA to invite you to your Team. 
+    -	After they invite you, there should be a mail sent to your e-mail address for Microsoft Teams. 
+    -	Click on “Open Microsoft Teams” link that is sent with the invitation mail. This link will open Microsoft Teams.
+    -	If you do not see your Team on the “Teams” tab of your account, click on your profile photo located on the top left corner and then click on “Sign out” button.
+    -	Sign in again using step 3.
+    -	It should ask you which organization you want to sign into. From the dropdown menu, select İhsan Dogramaci Bilkent University (Guest).
+
+5.	You are all set!
+
